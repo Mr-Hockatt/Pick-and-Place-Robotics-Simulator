@@ -4,4 +4,4 @@ Simulation of two robot manipulators (3DOF SCARA + 6DOF Arm) and a mobile robot 
 ![image](https://user-images.githubusercontent.com/53312754/144328955-fbb0da5f-2a79-4ac0-b3aa-4b845eb287cb.png)
 (https://www.youtube.com/embed/kgoQcasAHxQ)
 
-<a href="https://www.youtube.com/embed/kgoQcasAHxQ">[image](https://user-images.githubusercontent.com/53312754/144328955-fbb0da5f-2a79-4ac0-b3aa-4b845eb287cb.png)</a>
+<a href="https://www.youtube.com/embed/kgoQcasAHxQ"><image src="https://user-images.githubusercontent.com/53312754/144328955-fbb0da5f-2a79-4ac0-b3aa-4b845eb287cb.png"></a>
